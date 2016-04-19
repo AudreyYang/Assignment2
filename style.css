@@ -1,4 +1,82 @@
 #canvas{
 margin: auto;
 display: block;
+    
+}
+
+#desc{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 380px;
+   
+    top: 40px;
+    left: 40px;
+}
+
+h1 {
+font-family: 'PT Sans', sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 1.2em;
+}
+
+p {
+	font-family: 'Raleway', sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+
+h3 {
+	font-family: 'PT Sans', sans-serif;
+	font-size: 8px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+
+h2 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+
+
+
+#desc h3{
+   
+    margin: 0;
+    line-height: 1.6em;
+    
+}
+#desc p{
+    margin: 0;
+    line-height: 1.6em;
+    
+}
+
+blockquote {
+	font-family: 'Raleway', sans-serif;
+	font-size: 21px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 30px;
+}
+pre {
+	font-family: 'Raleway', sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 18.5714px;
 }
